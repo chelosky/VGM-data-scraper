@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "got": "^11.8.2",
-    "jsdom": "^16.5.2"
+    "jsdom": "^16.5.2",
+    "xlsx": "^0.16.9"
   },
   "devDependencies": {
     "@types/jsdom": "^16.2.10",
